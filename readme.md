@@ -1,0 +1,1 @@
+# Use constants in the Spring Security configuration
